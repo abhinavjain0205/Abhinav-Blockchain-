@@ -151,8 +151,7 @@ Sepolia Faucet transaction request page:
 Below is the screenshot showing the transaction confirmation inside MetaMask:
 ![image 5](https://github.com/user-attachments/assets/28aa0bdf-668c-44d0-89ba-1063c9eee784)
 ---
-
-> Created by: *[Shubham Singh]*  
+ 
 
 # Hyperledger-Fabric
 
@@ -253,10 +252,6 @@ Creates a default channel (usually named `mychannel`) and joins the peers to it.
 ./network.sh down
 ```
 Stops all containers and deletes the crypto material and artifacts created during the setup.
-
-## Screenshot 
-![image 20](https://github.com/user-attachments/assets/d701c39d-7508-4765-a115-ddbf1792a71c)
-
 
 
 # SOLIDITY
