@@ -208,12 +208,6 @@ curl -sSL https://bit.ly/2ysbOFE | bash -s
 ```
 Downloads necessary Fabric binaries and Docker images like peer, orderer, and cryptogen.
 
-## Screenshot
-![image 11](https://github.com/user-attachments/assets/e3eab6a7-a89b-426d-8aab-b618dfb6b8a4)
-![image 12](https://github.com/user-attachments/assets/a6cc56f8-b537-4ba5-a459-95e3a8d05988)
-![image 13](https://github.com/user-attachments/assets/1e87c5fe-fe51-4858-b64a-b212d325a169)
-
-
 
 
 ---
@@ -223,9 +217,6 @@ Downloads necessary Fabric binaries and Docker images like peer, orderer, and cr
 cd test-network
 ```
 Navigates to the directory that contains scripts for running a sample Fabric network.
-
-## Screenshot
-![image 14](https://github.com/user-attachments/assets/c4b35d77-66ea-493e-89f8-f95cbc9cea5a)
 
 
 ---
@@ -245,11 +236,6 @@ Shows the options available with the `network.sh` script.
 ```
 Starts the network by launching peer, orderer, and CA containers, and generates the required cryptographic materials.
 
-## Screenshot 
-![image 17](https://github.com/user-attachments/assets/b0d9229e-9c6f-48bc-be8e-33c1608bac42)
-
-
-
 
 ---
 
@@ -258,11 +244,6 @@ Starts the network by launching peer, orderer, and CA containers, and generates 
 ./network.sh createChannel
 ```
 Creates a default channel (usually named `mychannel`) and joins the peers to it.
-## Screenshot 
-
-![image 18](https://github.com/user-attachments/assets/b6473f66-e87c-4176-992b-6d94e1995aaa)
-![image 19](https://github.com/user-attachments/assets/6ec3a61a-ec82-4af4-910a-f2b36944ebac)
-
 
 
 ---
