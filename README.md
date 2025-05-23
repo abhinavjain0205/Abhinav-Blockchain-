@@ -92,8 +92,6 @@ cat decrypted_file.txt
 ipfs add decrypted_file.txt
 ```
 
-![image 3](https://github.com/user-attachments/assets/cb660e74-5c6e-4b42-98d5-469d8c554df7)
-
 
 
  # Notes
