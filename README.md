@@ -162,10 +162,6 @@ sudo apt install golang-go
 ```
 Installs Golang, which is necessary for running Hyperledger Fabric binaries.
 
-## Screenshot 
-
-![image 6](https://github.com/user-attachments/assets/38d854d4-23d0-46ae-b7e8-2db941843c5b)
-
 ---
 
 ## 2. Check Docker Version  
@@ -174,8 +170,6 @@ docker --version
 ```
 Verifies that Docker is installed and running correctly.
 
-## Screenshot 
-![image 7](https://github.com/user-attachments/assets/d2369d0e-75db-407a-b45d-d77cf4c9ae8c)
 _
 
 ---
@@ -185,10 +179,6 @@ _
 docker compose version
 ```
 Verifies the installation of Docker Compose.
-
-## Screenshot
-![image 8](https://github.com/user-attachments/assets/697dcb58-b9d2-4068-bebd-47689f1d8ce3)
-
 
 
 ---
@@ -207,9 +197,6 @@ git clone https://github.com/fabric-samples.git; cd fabric-samples
 ```
 Downloads the official Hyperledger Fabric sample code from GitHub.  
 Enters the cloned folder where Fabric examples are available.
-
-## Screenshot 
-![image 10](https://github.com/user-attachments/assets/a55ab6e6-d8f8-4c98-a94d-f6b310b97152)
 
 
 
@@ -248,11 +235,6 @@ Navigates to the directory that contains scripts for running a sample Fabric net
 ./network.sh
 ```
 Shows the options available with the `network.sh` script.
-
-## Screenshot
-![image 15](https://github.com/user-attachments/assets/a1674006-c577-449c-9f4f-1dcfd9fb6228)
-![image 16](https://github.com/user-attachments/assets/f321a9dc-63ff-48cb-9724-ef2878c406e8)
-
 
 
 ---
