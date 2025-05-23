@@ -1,4 +1,3 @@
-# blockchain-assignment-by-shubham-singh
 # IPFS DOWNLOAD STEP
 
 🔹 **Step 1**: Go to the official website  
@@ -702,8 +701,4 @@ contract EtherSplitter {
 ![image 33](https://github.com/user-attachments/assets/c8775f74-876e-4ffa-a2ca-437c6209e186)
 ## interacting with the contract
 ![image 34](https://github.com/user-attachments/assets/ad671158-4849-417e-be83-708116f2ca00)
-
-   ## END OF THE ASSIGNMENT
-   ## SUBMITTED BY-SHUBHAM SINGH(24107059)
-   ## SUBJECT-INTRODUCTION TO BLOCKCHAIN(SEC)
 
