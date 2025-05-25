@@ -38,8 +38,6 @@ Once uploaded, IPFS automatically generates a unique CID (Content Identifier) fo
 ---
 
 ![image 2](https://github.com/user-attachments/assets/239a7786-be77-4aa7-b944-77bff2fd4384)
-![IMAGE 1 1](https://github.com/user-attachments/assets/79c5513a-d3f0-45fd-aacd-071f823ae9b1)
-
 
 ---
 
